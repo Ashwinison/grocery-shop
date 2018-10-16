@@ -1,2 +1,1 @@
-# grocery-shop
-grocery shop project
+hi all this is my grocery project
